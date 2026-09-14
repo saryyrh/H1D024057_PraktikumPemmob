@@ -11,4 +11,4 @@
 ## Hasil Praktikum Pertemuan 1
 
 ### Tampilan Aplikasi (Layout Tentang Jualan)
-![Hasil Praktikum Pertemuan 1](jualan.jpeg)
+![Hasil Praktikum Pertemuan 1](app/src/main/res/values/jualan.jpeg)
