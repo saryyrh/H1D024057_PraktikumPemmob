@@ -3,7 +3,7 @@
 ## Identitas
 * **Nama**: Rahmadani Hafsari
 * **NIM**: H1D024057
-* **Shift KRS**: B
+* **Shift KRS**: E
 * **Shift Sekarang**: H
 
 ---
@@ -12,6 +12,8 @@
 
 ### Tampilan Aplikasi (Layout Tentang Jualan)
 ![Hasil Praktikum Pertemuan 1](images/jualan.jpeg)
+
+---
 
 ## Pertemuan 2 - Navigasi & Form Hubungi Kami
 
@@ -25,4 +27,14 @@
 
 * **Layar 2 (Hubungi Kami & Toast)**:
   ![Layar Hubungi Kami](images/pertemuan2_2.jpeg)
+
+---
+
+## Pertemuan 3 - Dynamic Lists with Lazy Layouts
+### Bukti Tampilan Layar
+* **Tampilan Daftar Produk UMKM Light Mode**:
+  ![Daftar Produk UMKM](images/pertemuan3_1.jpeg)
+
+* **Tampilan Daftar Produk UMKM Dark Mode**:
+  ![Toast Klik Produk](images/pertemuan3_2.jpeg)
 
