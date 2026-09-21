@@ -36,5 +36,5 @@
   ![Daftar Produk UMKM](images/pertemuan3_1.jpeg)
 
 * **Tampilan Daftar Produk UMKM Dark Mode**:
-  ![Toast Klik Produk](images/pertemuan3_2.jpeg)
+  ![Daftar Produk UMKM](images/pertemuan3_2.jpeg)
 
