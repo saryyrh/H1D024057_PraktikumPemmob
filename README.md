@@ -38,3 +38,16 @@
 * **Tampilan Daftar Produk UMKM Dark Mode**:
   ![Daftar Produk UMKM](images/pertemuan3_2.jpeg)
 
+---
+
+## Pertemuan 4 - Recomposition dan UI Lifecycle
+
+### Bukti Tampilan Layar
+* **Layar Utama & Pencarian Produk**:
+  ![Layar Pencarian Produk](images/pertemuan4_1.jpeg)
+
+* **Layar Detail Produk**:
+  ![Layar Detail Produk](images/pertemuan4_2.jpeg)
+
+* **Layar Form Hubungi Kami**:
+  ![Layar Form Hubungi Kami](images/pertemuan4_3.jpeg)
